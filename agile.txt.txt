@@ -1,0 +1,159 @@
+ 1. What is Agile?
+
+        Incremental + Iterative Approach=Agile Approach
+
+     Agile= Quick Moving
+
+ 2. Why Agile is required?
+
+
+ 3. Compare Agile with Seqential or Traditional?
+
+     1. SEQUENTIAL-Entire project
+     2. Incremental+ Seqential
+     3. Iterative+ Incremental
+
+   Agile Principles-Cultural 
+   Scrum Framework -Rules
+   Automation Tools(Dev,Admin, Testers)
+
+
+ Cross Functional
+
+   1. Full stack developer
+   2. Devops Engineer
+   3. Automation Tester
+
+   1. Scrum
+   2. Kanban
+   3. AGile SAFE
+
+----------------------------------------------
+
+  Q1: What is Agile?
+
+   Agile is a methodology which follows set of principles to deliver 
+   Continuios and Quick working software to clients
+
+  Q2: What are the Agile principles?
+  
+     1. Contious delivery of working software in multiple iterations
+     2. Each iteration short cycle..couple of weeks than months
+     3. Team work in each iteration analysis/design/development/Testing/deploy
+     4. more coolobrative with Business people to encourage changes and to get
+           continous feedback
+     5. Self organizing and cross functional team members
+     6. Agile gives more preference to discussion(Face to face) than documentation
+     7. Agile measure progress based on working software not based on documentation
+
+   
+  Q3:  What are the advantageous of delivering project in AGile when compared to
+     Traditional?
+
+       1.  Requirement changes are allowed 
+       2.  Early software(Ontime delivery)
+       3.  Early customer feedback
+       4.  more colloboration between team members
+
+ Q4: What are the major challenges for Agile projects?
+
+     4.1 Client colloboration
+     4.2 Team members mindset
+     4.3 Automation skills
+
+ Q5: What kind of projects are best suitable for Agile?
+
+        5.1 Client is not having clear requirements( Longterm/Complex/ongoing)
+        5.2 New technology
+        5.3 if cliennt is expecting software or ealy feedback
+       
+ 2008-->Satyam computers-->Insurance project-->US client-->2007 mid-->2010
+          2008 end-->4 months
+
+     1. Requirement changes-->6 months 
+     2. 6 more 
+
+  3 years--> 1 yera
+
+ 2009 April -->Release 1 or Iteration 1
+ 2009 May--> Release 2
+      
+
+ Q6: What are the problems in Traditional model or 
+       sequential approach or waterfall mode?
+     
+   1. High resistance to change Requirements
+   2. High risk projects, client has to wait till last day of the project
+           to give feedback on working software
+   3. No easrly customerfeedback..
+   4. No colloborative between team members
+   5. CI/CT/CD/CF not available like agile
+
+ Q7: what are the skills required to work in Agile projects?
+
+     1. Cross Functional 
+     2. Self organizing
+
+ Q8: What are the disadvantageous of Agile?
+      
+    8.1 Too many depedencies (People/Projects) 
+    8.2 Rigid
+    8.3 client is not actively participating
+
+
+----------------------------------------------------------------------------
+  Agile Principles
+        Framework
+        Tools    
+--------------------------------------------------------------------------------
+      Scrum Framework?
+
+
+ Agile Methodology-->Scrum Framework
+
+ To implement Agile principles to reality
+
+   Agile practice
+
+
+   Scrum is Agile practice where 3-8 IT engineers work colloborativerly
+  for 2 to 4 weeks to deliver working software freqnetly and continously as
+   customr priority/Product Owner priority/Busines prioroity
+
+ Extreme programming is Agile practice where 2-5 developers work to deliver
+  working software every 1-3 days as per  features priorotized by developer
+
+
+1.   Scrum-->New project
+2.   Kanban-->Support or maintenance
+3.   AGILE SAFE-->Enterprise 
+
+
+
+ Scrum Rules,EVents,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
